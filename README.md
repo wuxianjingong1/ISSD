@@ -18,4 +18,4 @@ The ISTD dataset is available at [https://github.com/DeepInsight-PCALab/ST-CGAN]
 The SBUTestNew dataset is available at [https://github.com/hanyangclarence/SILT](https://github.com/hanyangclarence/SILT).
 
 **(5) CUHK**
-The CUHK dataset is not publicly available. Please contact the authors of [CUHK]() to request access.
+The CUHK dataset is not publicly available. Please contact the authors of [CUHK](https://github.com/xw-hu/CUHK-Shadow) to request access.
