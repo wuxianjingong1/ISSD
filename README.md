@@ -6,7 +6,7 @@ A Shadow Detection Framework Based on Illumination-Sensitive Modeling.
 In this work, we utilize five benchmark datasets for evaluation:
 
 **(1) SBU**
-The SBU dataset is available at [SBU](https://dataset_link_here).
+The SBU dataset is available at [https://www3.cs.stonybrook.edu/~cvl/projects/shadow_noisy_label/index.html](https://www3.cs.stonybrook.edu/~cvl/projects/shadow_noisy_label/index.html).
 
 **(2) UCF**
 The UCF dataset is available at [UCF](https://dataset_link_here).
