@@ -1,6 +1,9 @@
 # ISSD
 A Shadow Detection Framework Based on Illumination-Sensitive Modeling.
 
+## Overview
+![Model Architecture](figs/model.png)
+
 ## Datasets
 
 In this work, we utilize five benchmark datasets for evaluation:
