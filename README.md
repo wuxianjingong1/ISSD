@@ -22,3 +22,8 @@ The SBUTestNew dataset is available at [https://github.com/hanyangclarence/SILT]
 
 **(5) CUHK**
 The CUHK dataset is not publicly available. Please contact the authors of [CUHK](https://github.com/xw-hu/CUHK-Shadow) to request access.
+
+
+## Results
+We provide the predicted results of our method on the benchmark datasets,
+which can be downloaded from [Google Drive](https://your_link_here) / [Baidu Disk](https://your_link_here).
