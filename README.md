@@ -12,10 +12,10 @@ The SBU dataset is available at [https://www3.cs.stonybrook.edu/~cvl/projects/sh
 The UCF dataset is available at [https://drive.google.com/file/d/12DOmMVmE-oNuJVXmkBJrkfBvuDd0O70N/view](https://drive.google.com/file/d/12DOmMVmE-oNuJVXmkBJrkfBvuDd0O70N/view).
 
 **(3) ISTD**
-The ISTD dataset is available at [https://github.com/DeepInsight-PCALab/ST-CGAN]([https://dataset_link_here](https://github.com/DeepInsight-PCALab/ST-CGAN)).
+The ISTD dataset is available at [https://github.com/DeepInsight-PCALab/ST-CGAN](https://github.com/DeepInsight-PCALab/ST-CGAN).
 
 **(4) SBUTestNew**
 The SBUTestNew dataset is available at [https://github.com/hanyangclarence/SILT](https://github.com/hanyangclarence/SILT).
 
 **(5) CUHK**
-The CUHK dataset is available at [CUHK](https://dataset_link_here).
+The CUHK dataset is not publicly available. Please contact the authors of [CUHK]() to request access.
