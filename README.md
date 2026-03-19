@@ -35,3 +35,16 @@ To evaluate the model, run the following command:
 ```bash
 python test.py
 ```
+
+
+## Citation
+
+If you find this work useful for your research, please consider citing our paper:
+```bibtex
+@article{lin2025issd,
+  title={Illumination Matters: A Shadow Detection Framework via Illumination-Sensitive Modeling},
+  author={Lin,Xiaofan},
+  journal={xxx},
+  year={2026}
+}
+```
