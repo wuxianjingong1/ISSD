@@ -24,14 +24,13 @@ The SBUTestNew dataset is available at [https://github.com/hanyangclarence/SILT]
 The CUHK dataset is not publicly available. Please contact the authors of [CUHK](https://github.com/xw-hu/CUHK-Shadow) to request access.
 
 
-## Results
-We provide the predicted results of our method on the benchmark datasets,
-which can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1xm8E8tGWO9J5nQT4yNdd9LlfExjctiDj?usp=sharing) / [Baidu Disk](https://pan.baidu.com/s/1qo8pDniGJfJFZ_o0XoYQaw?pwd=1210).
+## Results & Weights
+We provide the predicted results and pretrained weights of our model on the benchmark datasets.
 
-
-## Weights
-We provide the pretrained weights of our model, which can be downloaded from
-[Google Drive](...) / [Baidu Disk](...).
+| Resource | Google Drive | Baidu Disk |
+|----------|-------------|------------|
+| Predicted Results | [Google Drive](https://drive.google.com/drive/folders/1xm8E8tGWO9J5nQT4yNdd9LlfExjctiDj?usp=sharing) | [Baidu Disk](https://pan.baidu.com/s/1qo8pDniGJfJFZ_o0XoYQaw?pwd=1210) |
+| Pretrained Weights | [Google Drive](...) | [Baidu Disk](...) |
 
 
 ## Evaluation
