@@ -33,9 +33,22 @@ We provide the predicted results and pretrained weights of our model on the benc
 | Pretrained Weights | [Google Drive](https://drive.google.com/drive/folders/1nG3mrUkb_MNTb1N1FwgcTjCXdboys8j9?usp=sharing) | [Baidu Disk](https://pan.baidu.com/s/1nUa4NSeYFUX97Sdr-ay-MQ?pwd=1210) |
 
 
-## Evaluation
+## Training
+Before training, download the DINOv3 pretrained weights:
 
-To evaluate the model, run the following command:
+> ⚠️ **Note:** DINOv3 pretrained weights are required for training.
+> Please download from [https://huggingface.co/timm/vit_small_patch16_dinov3.lvd1689m](https://huggingface.co/timm/vit_small_patch16_dinov3.lvd1689m)  and place them in `models/`.
+
+Then run:
+```bash
+python train.py
+```
+
+
+## Evaluation
+Before evaluating, make sure the pretrained weights are placed in `weights/`.
+
+Then run:
 ```bash
 python test.py
 ```
