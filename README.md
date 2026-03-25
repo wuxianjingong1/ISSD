@@ -29,8 +29,8 @@ We provide the predicted results and pretrained weights of our model on the benc
 
 | Resource | Google Drive | Baidu Disk |
 |----------|-------------|------------|
-| Predicted Results | [Google Drive](https://drive.google.com/drive/folders/1xm8E8tGWO9J5nQT4yNdd9LlfExjctiDj?usp=sharing) | [Baidu Disk](https://pan.baidu.com/s/1qo8pDniGJfJFZ_o0XoYQaw?pwd=1210) |
-| Pretrained Weights | [Google Drive](...) | [Baidu Disk](...) |
+| Predicted Results | [Google Drive](https://drive.google.com/drive/folders/1_1V_7gbTgc6ahzV1Yx1L-FcYBsJEGRIB?usp=sharing) | [Baidu Disk](https://pan.baidu.com/s/1wxv2v8LJtKT4HS8hfQOATg?pwd=1210) |
+| Pretrained Weights | [Google Drive](https://drive.google.com/drive/folders/1nG3mrUkb_MNTb1N1FwgcTjCXdboys8j9?usp=sharing) | [Baidu Disk](https://pan.baidu.com/s/1nUa4NSeYFUX97Sdr-ay-MQ?pwd=1210) |
 
 
 ## Evaluation
