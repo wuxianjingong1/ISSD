@@ -29,6 +29,11 @@ We provide the predicted results of our method on the benchmark datasets,
 which can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1xm8E8tGWO9J5nQT4yNdd9LlfExjctiDj?usp=sharing) / [Baidu Disk](https://pan.baidu.com/s/1qo8pDniGJfJFZ_o0XoYQaw?pwd=1210).
 
 
+## Weights
+We provide the pretrained weights of our model, which can be downloaded from
+[Google Drive](...) / [Baidu Disk](...).
+
+
 ## Evaluation
 
 To evaluate the model, run the following command:
