@@ -58,10 +58,11 @@ python test.py
 
 If you find this work useful for your research, please consider citing our paper:
 ```bibtex
-@article{lin2025issd,
+@article{lin2026issd,
   title={Illumination Matters: A Shadow Detection Framework via Illumination-Sensitive Modeling},
-  author={Lin,Xiaofan},
-  journal={xxx},
-  year={2026}
+  author={Lin, Xiaofan},
+  journal={Pattern Recognition},
+  year={2026},
+  note={under review}
 }
 ```
