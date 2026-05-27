@@ -54,15 +54,4 @@ python test.py
 ```
 
 
-## Citation
 
-If you find this work useful for your research, please consider citing our paper:
-```bibtex
-@article{lin2026illumination,
-  title={Illumination Matters: A Shadow Detection Framework via Illumination-Sensitive Modeling},
-  author={Lin, Xiaofan and Luo, Wenlang and Yu, Yinghuai},
-  journal={Pattern Recognition},
-  year={2026},
-  note={under review}
-}
-```
